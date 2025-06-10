@@ -1,0 +1,9 @@
+{
+  "scenario_name": "procurement-bargaining",
+  "max_rounds": 8,
+  "issue": "compute-contract",
+  "buyer_target_price": 0.52,
+  "seller_target_price": 0.86,
+  "buyer_reservation_price": 0.72,
+  "seller_reservation_price": 0.48
+}
